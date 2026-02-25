@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.pth
+*.jpg
+*.jpeg
+*.png
+app/static/uploads/
+.DS_Store
+.ipynb_checkpoints/
